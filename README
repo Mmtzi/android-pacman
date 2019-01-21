@@ -1,0 +1,20 @@
+PacMan Deluxe 1.0
+
+How to Start Pacman Deluxe 1.0.:
+Um Zugang zum Multiplayer zu haben muss zunächst der Server gestartet werden.
+Der Server liegt im Folder "server" und kann mit dem Befehl: "node index.js" gestartet werden.
+Vorraussetzungen dafür ist aufgesetztes Node.js (v.8.9.0.).
+In der PacManMain ist die IP Adresse zu ändern, der Port sollte beibehalten werden.
+Sollte dennoch keine Verbindung aufgebaut werden können, ist vllt. der Port nicht frei gegeben.
+How to open Port: http://www.tomshardware.co.uk/faq/id-3114787/open-firewall-ports-windows.html;
+Libgdx supportet leider nur bis zu com.android.tools.build:gradle:2.3.3 also sprich bis gradle-3.3-all.zip...
+Sollte nicht gebuildet werden können oder es zu merkwürdigen Abstürzen im Spiel (Can't load Soundfile..?) kommen,
+sollte man auf genannte Einstellungen in den gradle-wrapper.properties und im buid.gradle umstellen.
+
+Der Sound und die Texturen sind, wenn nicht selber erstellt, von: https://opengameart.org/
+
+Viel Spass beim Spielen!
+
+gez. Dev. Marcel Muntzinger
+
+
